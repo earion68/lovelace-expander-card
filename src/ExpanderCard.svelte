@@ -155,6 +155,7 @@
         padding: 0.8em 0.8em;
         margin: 2px;
         background: var(--button-background);
+        color: white;
         border-style: none;
     }
     .header-overlay {

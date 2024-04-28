@@ -62,7 +62,7 @@ Yaml:
 
 Add this repository via HACS Custom repositories
 
-https://github.com/Alia5/lovelace-expander-card
+https://github.com/earion68/lovelace-expander-card
 
 ([How to add Custom Repositories](https://hacs.xyz/docs/faq/custom_repositories/))
 
